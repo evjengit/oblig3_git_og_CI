@@ -1,7 +1,4 @@
 import pytest
-import sys
-sys.path.append('oblig_2')
-
 from app.leapYear import isLeapYear
 
 def test_leap_year_divisible_by_4_not_100():
