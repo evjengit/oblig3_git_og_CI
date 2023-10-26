@@ -10,7 +10,7 @@ on:
 
 jobs:
     test:
-        name: Run tests
+        name: Leap Year is Gucci
         runs-on: ubuntu-latest
 
         steps:
